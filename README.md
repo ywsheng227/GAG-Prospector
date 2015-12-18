@@ -7,6 +7,7 @@ This software takes the numbers of monosaccharides and adduct ions as input para
 ### Input parameters
 <b>min_charge</b>: minimum charge</br>
 <b>max_charge</b>: maximum charge</br>
+<b>min_
 <b>dHexA</b>: number of unsaturated hexenuronic acid</br>
 <b>HexA</b>: number of hexenuronic acid</br>
 <b>HexN</b>: number of hexosamine</br>
@@ -22,6 +23,9 @@ This software takes the numbers of monosaccharides and adduct ions as input para
 <b>Li</b>: maximum number of lithium ion</br>
 
 ### How to generate a GAG database
+    min_charge = 4
+    max_charge = 8
+    min_
     exp = GagProspector(4, 8, 200, 2000, 1, 6, 7, 0, 0, 2, 20, 1, 1, 0)
     db, _ = exp.build_database()
     
