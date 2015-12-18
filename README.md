@@ -20,6 +20,6 @@ generate a database of GAG given the length and the numbers of monosaccharides
 <b>Li</b>: maximum number of lithium ion</br>
 
 ### How to generate a GAG database
-  ```exp = GagProspector(4, 8, 200, 2000, 1, 6, 7, 0, 0, 2, 20, 1, 1, 0)
-  db, _ = exp.build_database()
-  ```
+    ```exp = GagProspector(4, 8, 200, 2000, 1, 6, 7, 0, 0, 2, 20, 1, 1, 0)
+    db, _ = exp.build_database()
+    ```
