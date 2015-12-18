@@ -4,18 +4,18 @@ generate a database of GAG given the length and the numbers of monosaccharides
 ## How to Use 
 ### Input 
 <b>min_charge</b>: minimum charge</br>
-max_charge: maximum charge</br>
-dHexA: number of unsaturated hexenuronic acid</br>
-HexA: number of hexenuronic acid</br>
-HexN: number of hexosamine</br>
-HexNAc: number of N-acetylhexosamine</br>
-Mann: number of 2,5-anhydromannose</br>
-Ac: maximum number of acetate</br>
-SO3: maximum number of sulfate</br>
-NH4: maximum number of ammonium</br>
-HOHloss: water loss (maximum value: 1)</br>
-Na: maximum number of sodium ion</br>
-K: maximum number of potassium ion</br>
-Ca: maximum number of calcium ion</br>
-Li: maximum number of lithium ion</br>
+<b>max_charge</b>: maximum charge</br>
+<b>dHexA</b>: number of unsaturated hexenuronic acid</br>
+<b>HexA</b>: number of hexenuronic acid</br>
+<b>HexN</b>: number of hexosamine</br>
+<b>HexNAc</b>: number of N-acetylhexosamine</br>
+<b>Mann</b>: number of 2,5-anhydromannose</br>
+<b>Ac</b>: maximum number of acetate</br>
+<b>SO3</b>: maximum number of sulfate</br>
+<b>NH4</b>: maximum number of ammonium</br>
+<b>HOHloss</b>: water loss (maximum value: 1)</br>
+<b>Na</b>: maximum number of sodium ion</br>
+<b>K</b>: maximum number of potassium ion</br>
+<b>Ca</b>: maximum number of calcium ion</br>
+<b>Li</b>: maximum number of lithium ion</br>
 
