@@ -4,7 +4,7 @@ A Tool for Mining Glycosaminoglycan (GAG) Sequence Databases for Mass Spectromet
 This software takes the numbers of monosaccharides and adduct ions as input parameters, and generates a database of GAG species within certain m/z and charge ranges.
 
 ## How to Use 
-### Input 
+### Input parameters
 <b>min_charge</b>: minimum charge</br>
 <b>max_charge</b>: maximum charge</br>
 <b>dHexA</b>: number of unsaturated hexenuronic acid</br>
