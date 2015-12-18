@@ -1,5 +1,7 @@
 # GAG Prospector
-A Tool for Mining Glycosaminoglycan (GAG) Sequence Databases for Mass Spectrometry Data Analysis
+A Tool for Mining Glycosaminoglycan (GAG) Sequence Databases for Mass Spectrometry Data Analysis</br>
+</br>
+This software takes the numbers of monosaccharides and adduct ions as input parameters, and generates a database of GAG species within certain m/z and charge ranges.
 
 ## How to Use 
 ### Input 
