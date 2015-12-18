@@ -49,5 +49,5 @@ This software takes the numbers of monosaccharides and adduct ions as input para
             print "%s\t%s\t%s" % ("m/z", "Charge", "dHexA HexA HexN HexNAc Mann Ac SO3 NH4 HOHloss Na K Ca Li")
             for mz, charge, gag in db:
                 print "%.4f\t%d\t%d %d %d %d %d %d %d %d %d %d %d %d %d" % (mz, charge, gag.dHexA, gag.HexA, gag.HexN, gag.HexNAc,
-                gag.Mann, gag.Ac, gag.SO3, gag.NH4, gag.HOHloss, gag.Na, gag.K, gag.Ca, gag.Li)
+                        gag.Mann, gag.Ac, gag.SO3, gag.NH4, gag.HOHloss, gag.Na, gag.K, gag.Ca, gag.Li)
     
