@@ -1,5 +1,5 @@
 # GAG Prospector
-generate a database of GAG given the length and the numbers of monosaccharides
+A Tool for Mining Glycosaminoglycan (GAG) Sequence Databases for Mass Spectrometry Data Analysis
 
 ## How to Use 
 ### Input 
