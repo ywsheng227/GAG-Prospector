@@ -3,7 +3,7 @@ generate a database of GAG given the length and the numbers of monosaccharides
 
 ## How to Use 
 ### Input 
-min_charge    minimum charge
+min_charge</t></t>minimum charge</br>
 max_charge    maximum charge 
 dHexA         number of unsaturated hexenuronic acid
 HexA          number of hexenuronic acid
