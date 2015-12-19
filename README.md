@@ -24,6 +24,8 @@ This software takes the numbers of monosaccharides and adduct ions as input para
 <b>Li</b>: maximum number of lithium ion</br>
 
 ### How to generate a GAG database
+    from gagprospector import GagProspector
+    
     min_charge = 4
     max_charge = 8
     min_mz = 200
