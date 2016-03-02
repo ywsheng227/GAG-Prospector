@@ -24,7 +24,6 @@ SOFTWARE.
 """
 __author__ = 'Yuewei Sheng, PhD'
 
-from __future__ import print_function
 import math
 import logging
 from collections import namedtuple
